@@ -1,0 +1,42 @@
+======================================================================
+**MONSTER HUNTER GAME RULES**
+
+~About the game~
+Monster Hunter is an arcade style game where the player fights through rounds of monsters.
+The higher the game round, the more difficult the monsters will get.
+With random monster levels, random monster attacks and round end upgrades, 
+you must think carefully about your next move if you wish to reach the top of the leaderboard.
+
+~Rules for player names~
+A name cannot be completely empty and it must start with a letter.
+
+~Play game~
+When the player chooses to play a game, a monster is randomly generated.
+Thereafter, both the player's and monster's stats will be displayed.
+Next, the player can choose how to attack the monster.
+For a heavy attack, 5 energy is required and for a light attack, 2 energy is required.
+No energy is required to block an attack.
+The player also cannot use an attack if they have insufficient energy.
+If the monster is still alive, it then also has a chance to attack.
+A monster has the same attack types as the player, but does not have an energy requirement.
+If the player or monster is defeated, the round ends.
+If the player is dead, the game immediately ends, else the player can choose whether or not to continue.
+If the player chooses to continue, they are given the opportunity to choose an upgrade.
+1 is a health regen. 2 is an attack increase. 3 is a health increase. 4 is an energy increase.
+If the player ascended a level, they can choose another upgrade.
+When the game ends, the game results will be displayed.
+If a new high score was achieved, it will also be displayed.
+
+~High scores~
+The top ten highest scores will be displayed.
+
+~Change name~
+The player can choose to change their name.
+The same rules for player names as mentioned above will apply.
+If the name was changed, the previous player will exit the game and have their final results displayed.
+The new player will then play the game.
+If the name was not changed, the same player will continue to play the game.
+
+~Exit~
+The player's final results will be displayed and the game will exit.
+======================================================================
